@@ -6,10 +6,25 @@
   "commit": false,
   "contributors": [
     {
+      "login": "tjroeder",
+      "name": "Tim Roeder (he/him)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78194232?v=4",
+      "profile": "https://github.com/tjroeder",
+
+      "contributions": [
+        "code",
+        "ideas",
+        "review",
+        "test"
+      ]
+    },
+    
+    {
       "login": "jbreit88",
       "name": "Brad (he/him)",
       "avatar_url": "https://avatars.githubusercontent.com/u/88853324?v=4",
       "profile": "https://github.com/jbreit88",
+
       "contributions": [
         "code",
         "ideas",
