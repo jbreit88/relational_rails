@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tjroeder",
+      "name": "Tim Roeder (he/him)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78194232?v=4",
+      "profile": "https://github.com/tjroeder",
+      "contributions": [
+        "code",
+        "ideas",
+        "review",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "relational_rails",
+  "projectOwner": "jbreit88",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
